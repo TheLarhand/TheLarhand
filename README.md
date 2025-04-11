@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Igor Sokolov — Frontend Developer
 
-<!--
-**TheLarhand/TheLarhand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technologies I work with
 
-Here are some ideas to get you started:
+- HTML5 / CSS3 / Sass / Less  
+- JavaScript / TypeScript  
+- React / Next.js  
+- REST APIs / JSON / XML  
+- Git & GitHub  
+- Webpack / Gulp  
+- Figma / Adobe Photoshop / Adobe Illustrator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm focusing on now
+
+- Improving skills in React & TypeScript  
+- Learning advanced patterns and state management  
+- Building clean, reusable components  
+- Writing more tests and improving code quality  
+
+## GitHub Stats
+
+![Thelarhand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thelarhand&show_icons=true&theme=tokyonight&hide=issues&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelarhand&layout=compact&theme=tokyonight)
