@@ -1,28 +1,23 @@
-👋 Hi, I'm Igor Sokolov
-💻 Frontend Developer | Passionate about clean code and modern UI
-🚀 Technologies I Work With
-🧱 HTML5 / CSS3 / Sass / Less
+# Hi, I'm Igor Sokolov — Frontend Developer
 
-⚙️ JavaScript / TypeScript
+## Technologies I work with
 
-⚛️ React / Next.js
+- HTML5 / CSS3 / Sass / Less  
+- JavaScript / TypeScript  
+- React / Next.js  
+- REST APIs / JSON / XML  
+- Git & GitHub  
+- Webpack / Gulp  
+- Figma / Adobe Photoshop / Adobe Illustrator
 
-🔗 REST APIs / JSON / XML
+## What I'm focusing on now
 
-🔧 Git & GitHub
+- Improving skills in React & TypeScript  
+- Learning advanced patterns and state management  
+- Building clean, reusable components  
+- Writing more tests and improving code quality  
 
-🧩 Webpack / Gulp
+## GitHub Stats
 
-🎨 Figma / Photoshop / Illustrator
-
-🎯 Currently Focusing On
-📘 Leveling up in React & TypeScript
-
-🧠 Learning advanced patterns and state management
-
-🧼 Building clean, reusable components
-
-✅ Writing more tests and improving code quality
-
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=thelarhand&show_icons=true&theme=tokyonight&hide=issues&count_private=true" alt="GitHub Stats" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thelarhand&layout=compact&theme=tokyonight" alt="Top Languages" /> </p>
+![Thelarhand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thelarhand&show_icons=true&theme=tokyonight&hide=issues&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thelarhand&layout=compact&theme=tokyonight)
